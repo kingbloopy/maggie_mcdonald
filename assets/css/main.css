@@ -4005,3 +4005,11 @@ input, select, textarea {
 	flex-direction: column;
 	align-items: center;
 }
+
+.git, .linked {
+	font-size: 40px;
+}
+
+.email-me {
+	font-size: 12px;
+}

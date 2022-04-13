@@ -1994,7 +1994,7 @@ input, select, textarea {
 	}
 
 		.features section {
-			padding: 3.5em 3em 1em 7em ;
+			padding: 3.5em 3em 3em 7em ;
 			width: 50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
@@ -2196,7 +2196,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.features section {
-				padding: 2.5em 1.5em 0.1em 5.5em ;
+				padding: 2.5em 1.5em 2em 5.5em ;
 			}
 
 				.features section .icon {
@@ -4000,6 +4000,18 @@ input, select, textarea {
 	height: 100%;
 }
 
+@media screen and (max-width: 980px) {
+	
+	.contact-details {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-around;
+		height: 100%;
+		gap: 20px;
+	}
+}
+
 .social-links {
 	display: flex;
 	flex-direction: column;
@@ -4011,5 +4023,15 @@ input, select, textarea {
 }
 
 .email-me {
+	font-size: 12px;
+}
+
+.lang-icon {
+	font-size: 45px;
+	color: white;
+	margin-bottom: -10px;
+}
+
+.about-button {
 	font-size: 12px;
 }

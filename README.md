@@ -16,4 +16,4 @@ Currently, I am learning TypeScript, React Native, and Figma. I strive to find t
 
 ---
 
-[View Portfolio](https://kingbloopy.github.io/maggie-mcdonald/)
+<a href="https://kingbloopy.github.io/maggie-mcdonald/" target="_blank">View Portfolio</a>

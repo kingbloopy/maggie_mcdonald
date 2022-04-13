@@ -13,3 +13,7 @@ to craft an interface that is innovative, visually appealing, and intuitive for 
 <br>
 
 Currently, I am learning TypeScript, React Native, and Figma. I strive to find time to learn more!
+
+---
+
+[View Portfolio](https://kingbloopy.github.io/maggie-mcdonald/)

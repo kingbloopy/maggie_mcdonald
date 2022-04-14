@@ -15,5 +15,5 @@ to craft an interface that is innovative, visually appealing, and intuitive for 
 Currently, I am learning TypeScript, React Native, and Figma. I strive to find time to learn more!
 
 ---
-
-<a href="https://kingbloopy.github.io/maggie-mcdonald/" target="_blank">View Portfolio</a>
+View Portfolio:
+<a href="www.maggie-mcdonald.com" target="_blank">www.maggie-mcdonald.com</a>

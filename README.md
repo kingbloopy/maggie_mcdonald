@@ -16,4 +16,4 @@ Currently, I am learning TypeScript, React Native, and Figma. I strive to find t
 
 ---
 View Portfolio:
-<a href="www.maggie-mcdonald.com" target="_blank">www.maggie-mcdonald.com</a>
+<a href="https://maggie-mcdonald.com/" target="_blank">www.maggie-mcdonald.com</a>

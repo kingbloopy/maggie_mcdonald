@@ -4001,6 +4001,17 @@ input, select, textarea {
 }
 
 @media screen and (max-width: 980px) {
+
+	.nav-wrapper {
+		display: flex;
+		flex-direction: column;
+	}
+
+
+	.link-wrapper {
+		flex-direction: column;
+		margin-bottom: 20px;
+	}
 	
 	.contact-details {
 		display: flex;

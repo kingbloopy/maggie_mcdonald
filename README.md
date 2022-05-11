@@ -1,6 +1,6 @@
 # Maggie McDonald Portfolio
 
-Hello, and thanks for checking out my personal portfolio!
+Hello, and thank you for checking out my personal portfolio!
 <br>
 
 I am from Santa Barbara, California and have always been a So-Cal girl, although my desire to travel always keeps me moving and exploring new places around the world. I love to be outdoors or in nature when I can, and enjoy doing athletic activities outside. Some of these activities include hiking, biking, running, climbing, volleyball, and more! Besides being outside, I have always had a creative side that includes many hobbies as well. Some of these hobbies that I enjoy are drawing, painting, photography, designing, graphic design / art, pottery, playing guitar, and making music. I actually self-taught myself how to play the guitar and ukulele during the Covid Pandemic and recently got a new electric guitar that I am excited to learn how to play better! Lastly, and most importantly, I am a big time cat lover and have a little Siamese kitty named Mishka. She is the best cat ever :)

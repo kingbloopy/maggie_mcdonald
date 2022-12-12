@@ -4046,3 +4046,10 @@ input, select, textarea {
 .about-button {
 	font-size: 12px;
 }
+
+.dev-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}

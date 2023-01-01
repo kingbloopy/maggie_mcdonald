@@ -4049,6 +4049,8 @@ input, select, textarea {
 
 .about-button {
 	font-size: 12px;
+	display: flex;
+	justify-content: center;
 }
 
 .dev-wrapper {
@@ -4056,4 +4058,10 @@ input, select, textarea {
 	align-items: center;
 	justify-content: space-between;
 	margin-bottom: 20px;
+}
+
+@media screen and (max-width: 480px) {
+	.other-projects {
+		flex-direction: column;
+	}
 }

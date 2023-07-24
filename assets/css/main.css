@@ -3236,8 +3236,16 @@ input, select, textarea {
 
 				.wrapper > .inner {
 					padding: 3em 2em 1em 2em ;
+					padding-right: unset;
 				}
-
+				.wrapper > .profile-pic-wrapper {
+					margin-bottom: 60px;
+				}
+			}
+			@media screen and (max-width: 400px) {
+				.wrapper > .profile-pic-wrapper > #profile-pic {
+					width: 90px !important;
+				}
 			}
 
 		.wrapper.alt {

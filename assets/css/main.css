@@ -4015,7 +4015,7 @@ input, select, textarea {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	height: 100%;
 }
 
@@ -4036,7 +4036,7 @@ input, select, textarea {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		justify-content: space-around;
+		justify-content: space-evenly;
 		height: 100%;
 		gap: 20px;
 	}
@@ -4108,10 +4108,20 @@ section.row-icon {
 	gap: 16px;
 }
 
-section.row-icon h3 {
+section.row-icon h3, .linkedin-row h3 {
 	margin: unset !important;
 }
 
 .features section {
 	padding: 3em 4em;
+}
+
+.linkedin-row i {
+	font-size: 2em;
+}
+
+.linkedin-row {
+	display: flex;
+	align-items: center;
+	gap: 10px;
 }

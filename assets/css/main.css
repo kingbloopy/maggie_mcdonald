@@ -4101,3 +4101,17 @@ input, select, textarea {
 		margin-bottom: 60px;
 	}
 }
+
+section.row-icon {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+}
+
+section.row-icon h3 {
+	margin: unset !important;
+}
+
+.features section {
+	padding: 3em 4em;
+}

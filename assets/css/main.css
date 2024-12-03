@@ -3929,6 +3929,7 @@ input, select, textarea {
 	flex-direction: row;
 	align-items: center;
 	justify-content: space-around;
+	gap: 10px;
 }
 
 .profile-pic-wrapper {

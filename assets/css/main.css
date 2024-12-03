@@ -3238,7 +3238,7 @@ input, select, textarea {
 					padding: 3em 2em 1em 2em ;
 				}
 				.wrapper > .inner#landing {
-					padding: 3em 2em 1em 4em ;
+					padding: 3em 2em 1em 2em ;
 					padding-right: unset;
 				}
 				.wrapper > .profile-pic-wrapper {
@@ -3247,7 +3247,7 @@ input, select, textarea {
 			}
 			@media screen and (max-width: 400px) {
 				.wrapper > .profile-pic-wrapper > #profile-pic {
-					width: 90px !important;
+					width: 100% !important;
 				}
 			}
 
@@ -3934,7 +3934,7 @@ input, select, textarea {
 .profile-pic-wrapper {
 	max-width: 500px;
 	width: 100%;
-	padding-right: 4em;
+	padding-right: 2em;
 	justify-content: center;
 	display: flex;
 	gap: 10px;

@@ -3239,7 +3239,6 @@ input, select, textarea {
 				}
 				.wrapper > .inner#landing {
 					padding: 3em 2em 1em 2em ;
-					padding-right: unset;
 				}
 				.wrapper > .profile-pic-wrapper {
 					margin-bottom: 60px;
@@ -3932,14 +3931,37 @@ input, select, textarea {
 	gap: 10px;
 }
 
+@media screen and (max-width: 736px){
+	#intro {
+		flex-direction: column;
+	}
+}
+
 .profile-pic-wrapper {
 	max-width: 500px;
 	width: 100%;
-	padding-right: 2em;
+	padding: 0 2em;
 	justify-content: center;
 	display: flex;
 	gap: 10px;
 	flex-direction: column;
+}
+
+@media screen and (max-width: 736px) {
+	.image.left.about-img {
+		float: unset;
+		margin: unset;
+		top: unset;
+		max-width: unset;
+		display: block;
+		margin-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 736px) {
+	.image.left.about-img img {
+		max-width: 100%;
+	}
 }
 
 #profile-pic {

@@ -4165,3 +4165,19 @@ section.row-icon h3, .linkedin-row h3 {
 	font-size: 12px;
 	margin-bottom: 10px;
 }
+
+.screenshot-wrapper {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+.screenshot-wrapper>div:first-child {
+	margin-right: 15px;
+}
+
+.screenshot-wrapper img {
+	display: block;
+	max-width: 100%;
+	border-radius: 0.25em;
+}
